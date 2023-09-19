@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui;
+  background: #DF43FF;
+  color: white;
+  text-align: center;
+}
+#btnUserName{
+    margin-top: 10px;
+}
+#label-greet{
+    text-align: center;
+    width: 100%;
+
+}
